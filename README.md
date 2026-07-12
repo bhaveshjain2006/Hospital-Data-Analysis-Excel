@@ -15,7 +15,8 @@ This project focuses on cleaning, analyzing, and visualizing hospital data using
 * Conditional Formatting
 * Data Visualization
 * Interactive Dashboard
-<img width="1855" height="663" alt="image" src="https://github.com/user-attachments/assets/badda70e-0c6e-451d-bfff-80384b1483cb" />
+<img width="1856" height="663" alt="image" src="https://github.com/user-attachments/assets/f5fc00a4-814a-480b-84a9-d73098d62e97" />
+
 
 ## 🧹 Data Cleaning
 
